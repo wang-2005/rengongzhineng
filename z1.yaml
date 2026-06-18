@@ -1,0 +1,69 @@
+train: C:/Users/lenovo/Desktop/guwen/images/train
+val: C:/Users/lenovo/Desktop/guwen/images/val
+test: C:/Users/lenovo/Desktop/guwen/images/test
+
+names:
+  0: B_R1
+  1: R_R1
+  2: B_F_22
+  3: B_F_25
+  4: B_F_28
+  5: B_F_31
+  6: B_F_18
+  7: B_F_21
+  8: B_F_24
+  9: B_F_27
+  10: B_F_30
+  11: B_F_29
+  12: B_F_26
+  13: B_F_23
+  14: B_F_20
+  15: B_F_32
+  16: B_F_19
+  17: B_T_11
+  18: B_T_3
+  19: B_T_6
+  20: B_T_9
+  21: B_T_14
+  22: B_T_15
+  23: B_T_13
+  24: B_T_7
+  25: B_T_4
+  26: B_T_17
+  27: B_T_10
+  28: B_T_5
+  29: B_T_12
+  30: B_T_8
+  31: B_T_16
+  32: R_F_22
+  33: R_F_25
+  34: R_F_28
+  35: R_F_31
+  36: R_F_18
+  37: R_F_21
+  38: R_F_24
+  39: R_F_27
+  40: R_F_30
+  41: R_F_29
+  42: R_F_26
+  43: R_F_23
+  44: R_F_20
+  45: R_F_32
+  46: R_F_19
+  47: R_T_11
+  48: R_T_3
+  49: R_T_6
+  50: R_T_9
+  51: R_T_14
+  52: R_T_15
+  53: R_T_13
+  54: R_T_7
+  55: R_T_4
+  56: R_T_17
+  57: R_T_10
+  58: R_T_5
+  59: R_T_12
+  60: R_T_8
+  61: R_T_16
+
+

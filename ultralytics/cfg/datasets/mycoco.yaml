@@ -1,0 +1,10 @@
+train: D:/kaggle/datasets1/mycoco/images/train # train images
+val: D:/kaggle/datasets1/mycoco/images/val  # val images
+test: D:/kaggle/datasets1/mycoco/images/test  # test images （可选）
+
+# number of classes
+nc: 1
+
+# Classes，填写类别名
+names:
+  0: keng
